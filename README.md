@@ -2,17 +2,14 @@
 ## 🐣→💡→🚀 About me
 With over seven years of experience as both a Business Intelligence Developer and a Data Engineer across Canada and Iran, I kicked off my career after completing my Bachelor's degree in Computer Science. I've built a strong foundation in IT, data analytics, and statistics throughout my journey. I’ve worked on a variety of projects, from optimizing processes to handling large datasets, always aiming to bring valuable insights to the table.I’m passionate about continuous learning and am committed to meeting the high standards every project and team deserves. 
 
-Recognizing the need for deeper technical expertise, I pursued a Master's in Data Science at the University of British Columbia in 2022. Currently, I am a Senior Data Manager with a strong focus on managing large datasets, supporting internal teams, and integrating data science methodologies to shape business strategies.
+Recognizing the need for deeper technical expertise, I pursued a Master's in Data Science at the University of British Columbia in 2025. Currently, I am a Senior Data Manager with a strong focus on managing large datasets, supporting internal teams, and integrating data science methodologies to shape business strategies.
 <p><a href="https://www.linkedin.com/in/azin-p/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I know
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/sql)
 
 ### 💾 Databases and Data Warehouses
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
